@@ -29,5 +29,5 @@ Using Pandas to extract and prepare the data for analysis, and Dash to visualize
 the data and create a dashboard. The rendered dashboard should look like the 
 image below:
 
-![flight_dash](/Users/johnphillip/Desktop/flight_dashboard1.png)
-![second_dash](/Users/johnphillip/Desktop/flight_dashb.png)
+![flight_performance_report](imgs/flight_dashboard1.png)
+![flight_dash](imgs/flight_dashb.png)
